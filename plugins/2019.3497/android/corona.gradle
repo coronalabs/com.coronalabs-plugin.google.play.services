@@ -1,0 +1,2 @@
+
+throw new InvalidUserDataException("Please, remove 'plugin.google.play.services' from your build.settings. This plugin is no longer supported and not compatible with modern build system.")
